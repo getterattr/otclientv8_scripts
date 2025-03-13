@@ -1,1 +1,5 @@
-# otclientv8_scripts
+```
+chmod +x compile.sh
+./compile.sh
+```
+
